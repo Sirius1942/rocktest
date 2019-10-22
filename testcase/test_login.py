@@ -31,10 +31,6 @@ class TestUserLogin(unittest.TestCase,Ski):
         self.step("Open Browser","http://www.agavetest.info/rockprod/","chrome")
         self.step("input text","name=username","admin")
         self.step("input text","name=password","admin")
+        self.step("set browser implicit wait","5")
         self.step("click button","id=login_button")
         self.step("close browser")
-        
-    
-    
-
-
