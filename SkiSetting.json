@@ -1,0 +1,17 @@
+{
+    "routers":{
+        "userkw_sendmsg":"keywords.basic.send",
+        "Create Session":"RequestsLibrary.RequestsLibrary.create_session",
+        "Get Request":"RequestsLibrary.RequestsLibrary.get_request",
+        "input text":"Selenium2Library.Selenium2Library.input_text",
+        "click button":"Selenium2Library.Selenium2Library.click_button",
+        "Open Browser":"Selenium2Library.Selenium2Library.open_browser",
+        "close browser":"Selenium2Library.Selenium2Library.close_browser",
+        "login":"keywords.businessKW.bsend.login",
+        "getUserInfo":"keywords.businessKW.bsend.getUserList"
+    },
+    "global_variable":{
+        "BASE_URL":"https://www.agavetest.info:8888"
+    }
+    
+}
