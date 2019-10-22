@@ -7,6 +7,7 @@
         "click button":"Selenium2Library.Selenium2Library.click_button",
         "Open Browser":"Selenium2Library.Selenium2Library.open_browser",
         "close browser":"Selenium2Library.Selenium2Library.close_browser",
+        "set browser implicit wait":"Selenium2Library.Selenium2Library.set_browser_implicit_wait",
         "login":"keywords.businessKW.bsend.login",
         "getUserInfo":"keywords.businessKW.bsend.getUserList"
     },
